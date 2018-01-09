@@ -1,4 +1,4 @@
-# OSChina V2.2.1
+# OSChina（eclipse） V2.2.1
 
 # OSChina Android [客户端](http://www.oschina.net/app/)
 
