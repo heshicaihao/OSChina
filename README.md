@@ -25,11 +25,11 @@ heshicaihao@gmail.com
 
 需要提示的是，由于butterknife注解特性，Eclipse需要开启注解功能，
 
-详细方法参考[这里]http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0102/2247.html。
+详细方法参考[这里] http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0102/2247.html
 
-如果你找不到annotation processing参考[这里]http://blog.csdn.net/xiaokanghello/article/details/54880721。
+如果你找不到annotation processing参考[这里]  http://blog.csdn.net/xiaokanghello/article/details/54880721
 
-如果你照做下载不下来，是因为你上网不够科学，请科学上网参考[这里]https://github.com/getlantern/lantern。
+如果你照做下载不下来，是因为你上网不够科学，请科学上网参考[这里]  https://github.com/getlantern/lantern
 
 如果你还是不行编译不出Apk，请直接使用项目osc-android-app.apk
 
