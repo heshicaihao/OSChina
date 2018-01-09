@@ -27,11 +27,11 @@ heshicaihao@gmail.com
 
 详细方法参考[这里] http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0102/2247.html
 
-如果你找不到annotation processing参考[这里]  http://blog.csdn.net/xiaokanghello/article/details/54880721
+找不到annotation processing参考[这里]  http://blog.csdn.net/xiaokanghello/article/details/54880721
 
-如果你照做下载不下来，是因为你上网不够科学，请科学上网参考[这里]  https://github.com/getlantern/lantern
+照做下载不下来，请科学上网参考[这里]  https://github.com/getlantern/lantern
 
-如果你还是不行编译不出Apk，请直接使用项目osc-android-app.apk
+编译不出可以运行的Apk，请直接使用项目osc-android-app.apk
 
 对于使用Android Studio的开发者，可能你们需要等待一段时间，项目目前正在Gradle化。当然，我们也欢迎由你来转换项目并通过PullRequest提交给我们，充分发挥社区化协作的优势。  
 
