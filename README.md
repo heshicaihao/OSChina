@@ -1,5 +1,22 @@
 # OSChina（eclipse） V2.2.1
 
+版权归 http://www.oschina.net/
+
+V1.7.4源码
+https://github.com/heshicaihao/oschina-android-app
+
+V2.2.1源码
+https://github.com/heshicaihao/OSChina
+
+AndroidStudio源码
+https://github.com/heshicaihao/OSChina_AS
+
+如有版权问题请联系
+
+heshicaihao@163.com
+
+heshicaihao@gmail.com
+
 # OSChina Android [客户端](http://www.oschina.net/app/)
 
 ##开发环境
