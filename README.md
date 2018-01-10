@@ -1,4 +1,4 @@
-# OSChina
+# OSChina Android
 The copyright is to http://www.oschina.net/
 
 OSChina_V1.7.4-master  20130918 15:05  Eclipse
